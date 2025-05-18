@@ -1,0 +1,11 @@
+name: chsh_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - qiskit
+  - qiskit-aer
+  - qiskit_ibm_runtime
+  - matplotlib
+  - numpy
