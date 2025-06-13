@@ -4,13 +4,13 @@ This repository contains an interactive tutorial on the CHSH game, a quantum exp
 
 ## Repository Structure
 ```
-├── CHSH Game.ipynb
-├── Images
-├── Installation.ipynb
-├── README.md
-├── environment.yaml
-├── requirements.txt
-└── util.py
+├── CHSH Game.ipynb     # Main tutorial notebook - start here
+├── Images              # Images folder for the tutorial
+├── Installation.ipynb  # Instructions for creating an IBM Quantum account
+├── README.md           # This file
+├── environment.yaml    # To create the environment if using conda
+├── requirements.txt    # To create the environment using pip
+└── util.py             # Tests to check answers to exercises in tutorial notebook
 ```
 
 ## Set up instructions
