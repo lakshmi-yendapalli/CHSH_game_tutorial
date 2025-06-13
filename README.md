@@ -13,6 +13,8 @@ This repository contains an interactive tutorial on the CHSH game, a quantum exp
 
 ├── environment.yaml # For conda-based environment setup
 
+├── util.py # Tests to check correctness of exercises in the tutorial notebook
+
 └── README.md # This file
 
 ## Set up instructions
