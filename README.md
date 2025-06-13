@@ -3,6 +3,7 @@
 This repository contains an interactive tutorial on the CHSH game, a quantum experiment that demonstrates how entanglement allows two players to win a cooperative game beyond the limits of classical physics. You'll learn the theory behind Bell inequalities, explore classical vs. quantum strategies, and run real quantum circuits — both on a simulator and IBM Quantum hardware.
 
 ## Repository Structure
+```
 ├── CHSH Game.ipynb
 ├── Images
 ├── Installation.ipynb
@@ -10,6 +11,7 @@ This repository contains an interactive tutorial on the CHSH game, a quantum exp
 ├── environment.yaml
 ├── requirements.txt
 └── util.py
+```
 
 ## Set up instructions
 Using pip:
